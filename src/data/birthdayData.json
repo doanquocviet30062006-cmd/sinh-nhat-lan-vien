@@ -1,0 +1,139 @@
+{
+  "recipientName": "Lan Viên",
+  "nickname": "Viên Miêu",
+  "birthdayDate": "2026-08-04T00:00:00",
+  "subtitleMessage": "Hành trình vũ trụ ghi dấu những khoảnh khắc đẹp nhất của tuổi mới",
+  "constellations": [
+    {
+      "id": "star-1",
+      "x": 20,
+      "y": 30,
+      "title": "Chòm Sao Khởi Đầu",
+      "quote": "Ngày chúng mình gặp nhau, vũ trụ như bừng sáng thêm một vì sao lấp lánh.",
+      "starSize": 14
+    },
+    {
+      "id": "star-2",
+      "x": 45,
+      "y": 20,
+      "title": "Chòm Sao Tiếng Cười",
+      "quote": "Nụ cười của bạn luôn là nguồn năng lượng ấm áp nhất chiếu sáng những ngày mưa.",
+      "starSize": 18
+    },
+    {
+      "id": "star-3",
+      "x": 75,
+      "y": 35,
+      "title": "Chòm Sao Thấu Hiểu",
+      "quote": "Không cần nói nhiều lời, chỉ cần một ánh mắt là biết người kia đang nghĩ gì.",
+      "starSize": 16
+    },
+    {
+      "id": "star-4",
+      "x": 30,
+      "y": 70,
+      "title": "Chòm Sao Ước Mơ",
+      "quote": "Chúc cho mọi ước mơ hoài bão tuổi trẻ của bạn đều hoá thành hiện thực rực rỡ.",
+      "starSize": 20
+    },
+    {
+      "id": "star-5",
+      "x": 65,
+      "y": 65,
+      "title": "Chòm Sao Vĩnh Cửu",
+      "quote": "Dù thời gian trôi qua, tình bạn này vẫn mãi bền vững và ngát hương.",
+      "starSize": 15
+    }
+  ],
+  "memories": [
+    {
+      "id": "mem-1",
+      "date": "15 Tháng 10",
+      "title": "Buổi Cà Phê Chiều Thu",
+      "location": "Hà Nội",
+      "description": "Ngồi cạnh cửa sổ, nhâm nhi ly trà nóng và nói đủ chuyện trên đời từ chập tối tới tận đêm.",
+      "imageUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "tag": "Kỷ Niệm Ngọt Ngào",
+      "color": "#FF9BCF"
+    },
+    {
+      "id": "mem-2",
+      "date": "24 Tháng 12",
+      "title": "Đêm Giáng Sinh Rực Rỡ",
+      "location": "Phố Đại Dương",
+      "description": "Dưới hàng cây rực sáng đèn hoa, chúng ta cùng ước một điều ước thật bình yên.",
+      "imageUrl": "https://images.unsplash.com/photo-1512389142860-9c449e58a543?auto=format&fit=crop&w=800&q=80",
+      "tag": "Đêm Ấm Áp",
+      "color": "#FFD27D"
+    },
+    {
+      "id": "mem-3",
+      "date": "30 Tháng 04",
+      "title": "Chuyến Đi Về Biển Chiều",
+      "location": "Bờ Biển Hoàng Hôn",
+      "description": "Tiếng sóng vỗ về, gió biển thổi nhẹ và hoàng hôn tím biếc đẹp như một bức tranh vẽ.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "tag": "Hành Trình Tự Do",
+      "color": "#9D7BFF"
+    },
+    {
+      "id": "mem-4",
+      "date": "08 Tháng 03",
+      "title": "Bữa Tiệc Bất Ngờ",
+      "location": "Góc Sân Nhỏ",
+      "description": "Bánh kem ngọt ngào, ánh nến lung linh và chiếc ôm thật chặt thay cho muôn lời chúc.",
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=800&q=80",
+      "tag": "Bất Ngờ Rực Rỡ",
+      "color": "#FFC857"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Người Lắng Nghe Số 1",
+      "category": "Danh Hiệu Trái Tim",
+      "description": "Thành tích luôn có mặt 24/7 mỗi khi đồng đội cần tâm sự hoặc chia sẻ niềm vui nỗi buồn.",
+      "icon": "💖",
+      "dateAwarded": "Hàng Ngày"
+    },
+    {
+      "id": "ach-2",
+      "title": "Nụ Cười Tỏa Nắng",
+      "category": "Năng Lượng Vũ Trụ",
+      "description": "Khả năng xua tan mọi áp lực căng thẳng chỉ bằng một nụ cười rạng rỡ tươi tắn.",
+      "icon": "✨",
+      "dateAwarded": "Mọi Lúc"
+    },
+    {
+      "id": "ach-3",
+      "title": "Chuyên Gia Tạo Kỷ Niệm",
+      "category": "Nghệ Thuật Sống",
+      "description": "Luôn biến những ngày bình thường thành những khoảnh khắc đáng nhớ và ngập tràn niềm vui.",
+      "icon": "👑",
+      "dateAwarded": "Vĩnh Cửu"
+    },
+    {
+      "id": "ach-4",
+      "title": "Đại Sứ Bình Yên",
+      "category": "Tâm Tâm Tương Ấn",
+      "description": "Sự hiện diện dịu dàng mang lại cảm giác bình yên và tin tưởng tuyệt đối cho mọi người xung quanh.",
+      "icon": "🕊️",
+      "dateAwarded": "Trọn Đời"
+    }
+  ],
+  "letter": {
+    "salutation": "Chúc mừng sinh nhật Lan Viên! 🌿✨",
+    "paragraphs": [
+      "Đúng như cái tên thật đẹp của mình, mong rằng tuổi mới của Viên sẽ luôn rạng rỡ và tràn đầy sức sống như một khu vườn hoa lan ngát hương. Chúc bạn luôn giữ vững sự bình yên trong tâm hồn, thêm nhiều trải nghiệm rực rỡ, ngọt ngào và luôn tìm thấy niềm vui trong từng điều nhỏ bé nhất. Mong thế giới này sẽ luôn dịu dàng với bạn!",
+      "Tuổi mới chúc bạn thêm phần bản lĩnh để chinh phục những đỉnh cao mới, nhưng vẫn giữ trọn nụ cười rực rỡ và trái tim ấm áp như hiện tại. Mong rằng hành trình phía trước của Viên sẽ đầy hoa thơm, trái ngọt và những khoảnh khắc thật đáng giá. Tuổi mới tỏa sáng rực rỡ nhé, Lan Viên!"
+    ],
+    "closing": "Yêu thương và chúc mừng,",
+    "signature": "Người bạn đồng hành của bạn"
+  },
+  "secretGift": {
+    "wishTitle": "Điều Ước Tuổi Mới",
+    "wishMessage": "Hãy nhắm mắt lại, thắp nến và ước một điều ước thật chân thành. Vũ trụ sẽ lắng nghe và gửi những điều tuyệt vời nhất đến bên bạn!",
+    "giftBoxTitle": "Hộp Quà Kỳ Diệu Vũ Trụ",
+    "giftBoxSurprise": "Bạn nhận được 1,000,000 niềm vui, vô số sức khỏe và một tình bạn vĩnh cửu! Chúc mừng sinh nhật rực rỡ nhất!"
+  }
+}
